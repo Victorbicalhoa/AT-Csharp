@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\Exercicio_04\bin\Debug\net8.0\Exercicio_04.exe
+C:\Users\victo\source\repos\Exercicio_04\bin\Debug\net8.0\Exercicio_04.deps.json
+C:\Users\victo\source\repos\Exercicio_04\bin\Debug\net8.0\Exercicio_04.runtimeconfig.json
+C:\Users\victo\source\repos\Exercicio_04\bin\Debug\net8.0\Exercicio_04.dll
+C:\Users\victo\source\repos\Exercicio_04\bin\Debug\net8.0\Exercicio_04.pdb
+C:\Users\victo\source\repos\Exercicio_04\obj\Debug\net8.0\Exercicio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\Exercicio_04\obj\Debug\net8.0\Exercicio_04.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Exercicio_04\obj\Debug\net8.0\Exercicio_04.AssemblyInfo.cs
+C:\Users\victo\source\repos\Exercicio_04\obj\Debug\net8.0\Exercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Exercicio_04\obj\Debug\net8.0\Exercicio_04.dll
+C:\Users\victo\source\repos\Exercicio_04\obj\Debug\net8.0\refint\Exercicio_04.dll
+C:\Users\victo\source\repos\Exercicio_04\obj\Debug\net8.0\Exercicio_04.pdb
+C:\Users\victo\source\repos\Exercicio_04\obj\Debug\net8.0\Exercicio_04.genruntimeconfig.cache
+C:\Users\victo\source\repos\Exercicio_04\obj\Debug\net8.0\ref\Exercicio_04.dll
